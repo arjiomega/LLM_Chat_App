@@ -18,6 +18,11 @@ relevant, clear, and helpful.
 
 ## Setup
 
+Install Dependencies
+```bash
+pip install -e .
+```
+
 Create streamlit secrets
 ```bash
 touch .streamlit/secrets.toml
