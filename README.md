@@ -16,6 +16,12 @@ relevant, clear, and helpful.
 - **Philippines-Focused Expertise**: Exclusively provides travel advice for the Philippines, ensuring depth and accuracy in its recommendations.
 - **Chain-of-Thought Reasoning**: Breaks down user queries logically to deliver clear and structured responses.
 
+## Future Enhancements
+
+- Weather-Aware Travel Planning: Integrate real-time weather forecasts for the user's desired travel destinations to provide dynamic and up-to-date recommendations.
+- Retrieval-Augmented Generation (RAG) Integration: Implement RAG to enhance the chatbot's responses by retrieving accurate and contextually relevant information from external sources, ensuring recommendations are comprehensive and reliable.
+- Comprehensive Daily Weather Updates: Implement a feature to fetch daily weather forecasts for all cities and provinces in the Philippines, offering users a holistic view of travel conditions nationwide.
+
 ## Setup
 
 Install Dependencies
